@@ -35,37 +35,39 @@ Conducted one-on-one interviews with stuudents both from UKH and other universit
 
 ### 1.1 Functional vs. Non-Functional Requirements
 
-| Type | ID | Description |
-|------|----|-------------|
-| Functional Requirements | R1 | Users should be able to create and review digital flashcards. |
-|  | R2 | The system should generate daily, weekly, or monthly quizzes. |
-|  | R3 | The app should send reminders for upcoming deadlines or tasks. |
-|  | R4 | Users should be able to manage a to-do list with time-based alerts. |
-|  | R5 | Users should earn rewards or points for completing study goals. |
-|  | R6 | The app should allow users to track how long they’ve studied and provide progress charts. |
-|  | R7 | An optional leaderboard should allow friendly competition for users who are interested. |
-|  | R8 | Users should be able to redeem collected points for digital gifts or achievements. |
-| Non-Functional Requirements | NFR1 | The interface should be simple, user-friendly, and visually clean. |
-|  | NFR2 | Notifications and reminders should be customizable by the user. |
-|  | NFR3 | The system should ensure data privacy for user study times and leaderboard stats. |
-|  | NFR4 | The application should respond within 2 seconds for most user actions. |
+| ID | Functional Requirements |
+|----|--------------------------|
+| R1 | Users should be able to create and review digital flashcards. |
+| R2 | The system should generate daily/weekly/monthly quizzes. |
+| R3 | The app should send reminders for upcoming deadlines or tasks. |
+| R4 | Users should be able to manage a to-do list with time-based alerts. |
+| R5 | Users should earn rewards or points for completing study goals. |
+| R6 | The app should allow users to track how long they’ve studied and provide progress charts. |
+| R7 | An optional leaderboard to encourage competition for those interested. |
+| R8 | Gifts to redeem with collected points. |
 
+| ID | Non-Functional Requirements |
+|----|--------------------------|
+| NF1 | The app should have an intuitive and user-friendly interface free from distractions. |
+| NF2 | Notifications and reminders should be delivered in real-time. |
+| NF3 | The system should ensure data privacy and security for users. |
+| NF4 | The app should be responsive and accessible on multiple devices. |
+| NF5 | The system should handle up to 1,000 active users without performance degradation. |
 
 ### 1.2 User Requirements vs. System Requirements
 
-| Category | ID | Description |
-|-----------|----|-------------|
-| User Requirements | R1 | I want to create flashcards to help me study more effectively. |
-|  | R3 | I want the app to remind me of my tasks and deadlines. |
-|  | R4 | I want to set a to-do list and receive alerts when it’s time. |
-|  | R5 | I want to earn rewards for completing study goals. |
-|  | R6 | I want to see how long I’ve studied and view my progress. |
-|  | R7 | I want to compare my study time with friends if I choose to. |
-|  | R8 | I want to redeem my collected points for digital gifts. |
-| System Requirements | R2 | The system must generate quizzes automatically (daily, weekly, or monthly). |
-|  | NFR1 | The interface must be intuitive and responsive. |
-|  | NFR2 | The system must allow customizable notifications. |
-|  | NFR3 | The system must protect user data and maintain privacy. |
-|  | NFR4 | The system must perform efficiently with minimal delays. |
+| ID | User Requirements |
+|----|--------------------------|
+| UR1 | Users want to create, edit, and review digital flashcards easily. |
+| UR2 | Users want to receive regular quizzes to reinforce their learning. |
+| UR3 | Users want reminders for upcoming deadlines or study sessions. |
+| UR4 | Users want a visible reward or progress system to stay motivated. |
+| UR5 | Users want to compare their study time with friends for motivation and have the option to keep it private. |
 
-
+| ID | System Requirements |
+|----|--------------------------|
+| SR1 | The system must store and retrieve flashcard data securely. |
+| SR2 | The system must automatically generate quizzes based on flashcards. |
+| SR3 | The system must send push notifications or email reminders. |
+| SR4 | The system must track study durations and generate progress analytics. |
+| SR5 | The system must update the leaderboard in real-time based on user activity. |
