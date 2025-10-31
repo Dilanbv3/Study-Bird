@@ -1,18 +1,18 @@
 ## 1. Requirment Elicitation process 
 
 ### 1.1 Techniques Used
-We used two elicitation techniques to gather information from potential users and stakeholders:
+Two elicitation techniques were used to gather information from possible users and stakeholders:
 
 1. Online Survey: 
-Distributed via Google Forms to students all over erbil aimed to understand study habits, challanges and desired features.
+To learn more about study habits, challenges and desired features Google Forms were distributed to students all over Erbil.
 
 2. Interviews:
-Conducted one-on-one interviews with stuudents both from UKH and other universities to get deeper insights.
+To gain deeper understanding one-on-one interviews with stuudents both from UKH and other universities to get deeper insights.
 
 ### 1.2 Summary of the data collected:
 - Most students struggle with staying motivated and not getting distracted.
-- Flashcards, weekly quizzes, study reminders and progress charts were the most requested features.
-- 84% of students think they would benefit from weekly quizzes to help retain information and they are interested in managing how often they take the quizzes.
+- Most frequently requested features were flashcards, weekly quizzes, study reminders and progress charts.
+- 84% of students believe that they would benefit from weekly quizzes to help them retain information and they are interested in controlling how frequently they take the quizzes.
 - 84% of students were interested in study reminders and to-do lists with real time alerts.
 - Students are interested in tracking how long they've been studying but only 38% are interested in sharing their progress with other peers while the rest prefer to keep it private.
 - Students are interested in redeeming points for gift cards and/or in app customization features.
