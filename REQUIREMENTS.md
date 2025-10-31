@@ -71,3 +71,21 @@ To gain deeper understanding one-on-one interviews with stuudents both from UKH 
 | SR3 | The system must send push notifications or email reminders. |
 | SR4 | The system must track study durations and generate progress analytics. |
 | SR5 | The system must update the leaderboard in real-time based on user activity. |
+
+### structured specifications 1: Digital Flashcard Management System
+| Component | Specification |
+|----|--------------------------|
+| Function | Create and manage digital flashcards for student purposes. |
+| Description | Provides a diverse interface where users can create, edit, delete and organzie these digital flashcards. Each flashcard contains a question on the front and an answer on the back and they can be organized into subject specific deacks.Users can add additional tags and image attachments to help them more with their studies. |
+| Inputs | Flashcard question front text (string, 1-500 char), answer back text (string, 1-1000 char), subject/deck category (string, from existing list or new entry), optional tags (array, max 5 tags), optional media files (images, max 5MB). |
+| Source | User input via web interface forms, keyboard, moouse, file upload. |
+| Outputs | Interactive flashcard presentation with reveal functionality, action confirmation alerts, updated collection statistics. |
+| Destination | Web browser display. |
+| Action | The system checks to see if everything is filled out correctly and comletely, additionally it adds a special number to the flashcard so no two flashcards have the same ID, also puts it in a way where only you can have access to it. Saves the flashcard permanently with data/time. If you want to change anything, the system first shows you what you already have, makes sure your edits are okay, saves the new version of your edits, and can also remember the old version. For deletion, system triggers user comfirmation before actually deleting anything, only deletes after user approval, refreshes deck totals after every change, and allows 30-second recovery period. During reviews, the system presents the question first, then with a click the answer is revealed, it also records your studying history, and lastly the system is aware of how you did in your previous quizzes and figures out the best time to quiz you on the same material again using a learning algorithm. |
+| Requires | User must be authenticated and logged into the system. Database server must be active. |
+| Precondition | The user needs to be logged in with a working session, and they need to have the right permission to edit these flashcards. |
+| Postcondition | The flashcard is permenently saved in the database, and the users deck is continuously edited and changed up-to-date, the total number of flashcards are recalculated everytime to stay accurate, and the study progress is updated everytime anything is applicable. |
+| Side Effects | The database will use more storage space to store the incoming new flashcards, the user's flashcard count goes up, the newly updated flashcards becomes part of the next generated quiz automatically. |
+
+
+
