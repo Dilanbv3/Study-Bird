@@ -87,5 +87,14 @@ To gain deeper understanding one-on-one interviews with stuudents both from UKH 
 | Postcondition | The flashcard is permenently saved in the database, and the users deck is continuously edited and changed up-to-date, the total number of flashcards are recalculated everytime to stay accurate, and the study progress is updated everytime anything is applicable. |
 | Side Effects | The database will use more storage space to store the incoming new flashcards, the user's flashcard count goes up, the newly updated flashcards becomes part of the next generated quiz automatically. |
 
+## 5. Requirements Prioritization Analyst
 
+Sorting the requirements based upon the following priorities:
+### (Mandatory, Nice To Have, Superfluous) 
+
+| Requirement | Priority | Reasoning |
+|------------------------------------------------------------------|-----------------|-----------------------------------------------------------------------------|
+| Sending users study reminder notifications and alerts of upcoming quizzes/tests | Mandatory | As a core part of Study Bird, notifications about study reminders and alerting students of upcoming quizzes/tests should be implemented additionally based upon the surey filled by students a majority were in favor of such a feature being implemented. |
+| Users should be able to create and review digital flashcards | Mandatory | To set apart Study Bird with other apps such as Moodle such features that can further be of use to students must be implemented to give yet another reason to use and utilize study bird over alternatives that lack these certain features or a combination of them, users also answered heavily in favor to this feature being apart of Study Bird. |
+| System generated daily/weekly/monthly based quizzes | Mandatory | Yet another leading feature that may set apart Study Bird from alternatives while also benefitting users by helping retain studied materials through quizzes after certain time periods |
 
