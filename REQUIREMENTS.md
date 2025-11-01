@@ -72,7 +72,10 @@ To gain deeper understanding one-on-one interviews with stuudents both from UKH 
 | SR4 | The system must track study durations and generate progress analytics. |
 | SR5 | The system must update the leaderboard in real-time based on user activity. |
 
-### structured specifications 1: Digital Flashcard Management System
+## 4. Structured Specifications 
+
+### 1. Digital Flashcard Management System
+
 | Component | Specification |
 |----|--------------------------|
 | Function | Create and manage digital flashcards for student purposes. |
