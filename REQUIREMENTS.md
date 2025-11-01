@@ -106,7 +106,7 @@ A brainstorming session was conducted during the early stages to refine initial 
 | Postcondition | The quiz is saved and marked as ready. The user gets sent a notification and can access it through the website. If the quiz is not finished within its expiration date then you cant access it. Finished quizzes are saved for the users progress and their study stats get updated. |
 | Side Effects | Study Bird gets notified through an email or push alert whenever a new quiz is enabled. The database storage increases whenever a new quiz is created. When many quizzes are created at once, the system activity expands. If the user ever skips a quiz, their stydying streak might get affected. After finishing the quiz, review timing for flashcard is updated. |
 
-### Task Management with Intelligent Reminders
+### 3. Task Management with Intelligent Reminders
 | Components | Specification |
 |----|--------------------------|
 | Function | Study Bird keeps your study tasks organized and gives reminders automatically. |
