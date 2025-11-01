@@ -95,7 +95,10 @@ A brainstorming session was conducted during the early stages to refine initial 
 
 Sorting the requirements based upon the following priorities:
 ### (Mandatory, Nice To Have, Superfluous) 
-### 1.1 Prioritization Table
+### 1.1 Prioritization Justification Criteria
+The three priority stasuses listed above must go hand in hand with the vision set by us along with the feedback that students gave when asked through the means of interviews and surveys. The requirements that would be deemed (Mandatory) as the definition suggests would be the requirements that Study Bird would not be complete without the presence of, these requirements have been chosen in accordance to the feedback of students and careful consideration with in the team in regards to its feasability, taking into account the time needed along with deadline to implement and our ability to make them happen. Secondly, (Nice to Have) features are features that also 
+
+### 1.2 Prioritization Table
 | Requirement | Priority | Reasoning |
 |------------------------------------------------------------------|-----------------|-----------------------------------------------------------------------------|
 | Sending users study reminder notifications and alerts of upcoming quizzes/tests | Mandatory | As a core part of Study Bird, notifications about study reminders and alerting students of upcoming quizzes/tests should be implemented additionally based upon the surey filled by students a majority were in favor of such a feature being implemented. |
