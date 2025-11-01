@@ -18,6 +18,7 @@ To gain deeper understanding one-on-one interviews with stuudents both from UKH 
 - Students are interested in redeeming points for gift cards and/or in app customization features.
 
 ### 2. Team brainstorming session
+A brainstorming session was conducted during the early stages to refine initial ideas and each member shared their opinions on which ideas would provide the most value and how we can implement these ideas to best benefit students. 
 
 ### 3. Raw requirments list
 | ID | Requirement Description | Source |
