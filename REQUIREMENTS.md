@@ -91,7 +91,7 @@ To gain deeper understanding one-on-one interviews with stuudents both from UKH 
 
 Sorting the requirements based upon the following priorities:
 ### (Mandatory, Nice To Have, Superfluous) 
-
+### 1.1 Prioritization Table
 | Requirement | Priority | Reasoning |
 |------------------------------------------------------------------|-----------------|-----------------------------------------------------------------------------|
 | Sending users study reminder notifications and alerts of upcoming quizzes/tests | Mandatory | As a core part of Study Bird, notifications about study reminders and alerting students of upcoming quizzes/tests should be implemented additionally based upon the surey filled by students a majority were in favor of such a feature being implemented. |
