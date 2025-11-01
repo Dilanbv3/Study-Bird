@@ -28,7 +28,7 @@ To gain deeper understanding one-on-one interviews with stuudents both from UKH 
 | R4 | Users should be able to manage a to-do list with time-based alerts. | Brainstorm |
 | R5 | Users should earn rewards or points for completing study goals. | Interview + Brainstorm |
 | R6 | The app should allow users to track how long they’ve studied and provite progress charts. | Survey |
-| R7 | An optional leaderboard to encourage competation for those intereasted. | Survey + Interview |
+| R7 | An optional leaderboard to encourage competition for those intereasted. | Survey + Interview |
 | R8 | Gifts to reedem with collected points. | Interview |
 
 ## 2. Requirment Classification
