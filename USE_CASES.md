@@ -5,8 +5,6 @@ Primary Actor: System Administrator
 Supporting Actor: Database Server
 Goal: To view, export, and analyze usage and performance reports for Study Bird.
 Preconditions: Administrator has authenticated with valid admin credentials. The database is accessible and up-to-date.
-(https://github.com/user-attachments/assets/746515ce-1e1f-4b55-ad90-1b9c8139b079)
-
 
 Main Flow:
 1. Administrator navigates to “Reports → System Activity.”
