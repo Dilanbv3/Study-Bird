@@ -7,7 +7,7 @@ Two elicitation techniques were used to gather information from possible users a
 To learn more about study habits, challenges and desired features Google Forms were distributed to students all over Erbil.
 
 2. Interviews:
-To gain deeper understanding one-on-one interviews with stuudents both from UKH and other universities to get deeper insights.
+To gain deeper understanding one-on-one interviews with students both from UKH and other universities were conducted to get deeper insights.
 
 ### 1.2 Summary of the data collected:
 - Most students struggle with staying motivated and not getting distracted.
