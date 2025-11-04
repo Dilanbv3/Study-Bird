@@ -5,15 +5,14 @@ Primary Actor: System Administrator
 Supporting Actor: Database Server
 Goal: To view, export, and analyze usage and performance reports for Study Bird.
 Preconditions: Administrator has authenticated with valid admin credentials. The database is accessible and up-to-date.
-![case1](https://github.com/user-attachments/assets/e78aa267-cfd1-4517-9630-515f8289620d)
-
 
 Main Flow:
 1. Administrator navigates to “Reports → System Activity.”
 2. The system queries data on active users, quizzes completed, tasks created, and system uptime.
 3. Admin selects report filters (date range, user groups, activity type).
 4. The system compiles and displays data in charts and tables.
-!(https://github.com/user-attachments/assets/db0346a8-e1d1-42df-9ba3-56a17f24f653)
+   
+![case1](https://github.com/user-attachments/assets/e78aa267-cfd1-4517-9630-515f8289620d)
 
 
 ### 2. Create and Review Flashcards
@@ -29,6 +28,9 @@ Main Flow:
 5. The student can later review flashcards.
 Postconditions: Flashcard is stored and available for review or quizzes.
 
+![case2](https://github.com/user-attachments/assets/37f99cb4-935f-4ba4-a58b-aff1d39b59e5)
+
+
 ### 3. Manage Study Tasks and Reminders
 
 Primary Actor: Student
@@ -41,6 +43,9 @@ Main Flow:
 3. When due, the system sends notifications via selected channels.
 4. Task is updated in the database; reminders are adjusted accordingly.
 
+![case3](https://github.com/user-attachments/assets/144a8243-9fb8-4561-ba8f-cc7c3e173963)
+
+
 ### 4.Manage User Accounts
 Primary Actor: System Administrator
 Goal: Maintain user access, security, and data integrity.
@@ -52,3 +57,6 @@ Main Flow:
 3. Can create, suspend, or delete user accounts.
 4. The system updates the database accordingly.
 5. Admin receives confirmation of each action.
+
+![case4](https://github.com/user-attachments/assets/421f0192-4fcc-4413-86b8-baeb4dfbf1a7)
+
