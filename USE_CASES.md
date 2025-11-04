@@ -11,6 +11,8 @@ Main Flow:
 2. The system queries data on active users, quizzes completed, tasks created, and system uptime.
 3. Admin selects report filters (date range, user groups, activity type).
 4. The system compiles and displays data in charts and tables.
+!(https://github.com/user-attachments/assets/db0346a8-e1d1-42df-9ba3-56a17f24f653)
+
 
 ### 2. Create and Review Flashcards
 Primary Actor: Student
