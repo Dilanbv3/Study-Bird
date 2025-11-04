@@ -14,5 +14,9 @@ Backend: Python
 Database: MySQL
 
 ### Organization and layout:
-REQUIRMENTS.md contains all the informtion on how the requirments were gathered and organized 
+1. REQUIRMENTS.md contains all the informtion on how the requirments were gathered and organized
+2. REQUIREMENTS_VALIDATION.md explains the risk and their validation methods
+3. USE_CASES.md explains the use case diagrams
+4. assets contains all the supporting files we've gathered
+
 
